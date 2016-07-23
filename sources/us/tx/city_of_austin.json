@@ -28,10 +28,8 @@
     "conform": {
         "number": "ADDRESS",
         "street": [
-            "prefix_dir",
             "STREET_NAM",
-            "STREET_TYP",
-            "suffix_dir"
+            "STREET_TYP"
         ],
         "type": "shapefile"
     }
